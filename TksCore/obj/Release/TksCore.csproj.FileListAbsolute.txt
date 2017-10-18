@@ -1,0 +1,164 @@
+C:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\bin\Release\TksCore.dll
+C:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\bin\Release\TksCore.pdb
+C:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Release\ResolveAssemblyReference.cache
+C:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Release\TksCore.dll
+C:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Release\TksCore.pdb
+E:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\bin\Release\TksCore.dll
+E:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\bin\Release\TksCore.pdb
+E:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Release\ResolveAssemblyReference.cache
+E:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Release\TksCore.dll
+E:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Release\TksCore.pdb
+D:\TT_on_05MAY14\TicToc_Project\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\TT_on_05MAY14\TicToc_Project\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\TT_on_05MAY14\TicToc_Project\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\TT_on_05MAY14\TicToc_Project\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\TT_on_05MAY14\TicToc_Project\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\TT_28AUG14\TT_on_28AUG14\TT_on_13AUG14\TicToc_Project\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\TT_28AUG14\TT_on_28AUG14\TT_on_13AUG14\TicToc_Project\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\TT_28AUG14\TT_on_28AUG14\TT_on_13AUG14\TicToc_Project\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_28AUG14\TT_on_28AUG14\TT_on_13AUG14\TicToc_Project\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\TT_28AUG14\TT_on_28AUG14\TT_on_13AUG14\TicToc_Project\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\TT_16SEP14\TicToc_Project\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\TT_16SEP14\TicToc_Project\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\TT_16SEP14\TicToc_Project\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_16SEP14\TicToc_Project\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\TT_16SEP14\TicToc_Project\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\TTonDEC16\TT_16SEP14\TT_16SEP14\TicToc_Project\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\TTonDEC16\TT_16SEP14\TT_16SEP14\TicToc_Project\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\TTonDEC16\TT_16SEP14\TT_16SEP14\TicToc_Project\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TTonDEC16\TT_16SEP14\TT_16SEP14\TicToc_Project\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\TTonDEC16\TT_16SEP14\TT_16SEP14\TicToc_Project\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\TT15JUN15\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\TT15JUN15\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\TT15JUN15\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT15JUN15\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\TT15JUN15\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\27JUL15\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\27JUL15\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\27JUL15\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\27JUL15\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\27JUL15\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\TT_04SEP15\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\TT_04SEP15\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\TT_04SEP15\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_04SEP15\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\TT_04SEP15\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\TT_09OCT15\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\TT_09OCT15\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\TT_09OCT15\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_09OCT15\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\TT_09OCT15\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\TT_02NOV15\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\TT_02NOV15\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\TT_02NOV15\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_02NOV15\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\TT_02NOV15\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\TT_13NOV15\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\TT_13NOV15\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\TT_13NOV15\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_13NOV15\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\TT_13NOV15\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\SQA_TT\01MAR17\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\SQA_TT\01MAR17\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\SQA_TT\01MAR17\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\SQA_TT\01MAR17\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\SQA_TT\01MAR17\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\SQA_TT\01MAR17_test\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\SQA_TT\01MAR17_test\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\SQA_TT\01MAR17_test\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\SQA_TT\01MAR17_test\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\SQA_TT\01MAR17_test\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\SQA_TT\08MAR17_test\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\SQA_TT\08MAR17_test\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\SQA_TT\08MAR17_test\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\SQA_TT\08MAR17_test\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\SQA_TT\08MAR17_test\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\SQA_TT\14MAR17_Test\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\SQA_TT\14MAR17_Test\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\SQA_TT\14MAR17_Test\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\SQA_TT\14MAR17_Test\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\SQA_TT\14MAR17_Test\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\SQA_TT\27MAR17_Test\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\SQA_TT\27MAR17_Test\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\SQA_TT\27MAR17_Test\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\SQA_TT\27MAR17_Test\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\SQA_TT\27MAR17_Test\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Project\SQA_TT\27MAR17_Test\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Project\SQA_TT\27MAR17_Test\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Project\SQA_TT\27MAR17_Test\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Project\SQA_TT\27MAR17_Test\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Project\SQA_TT\28MAR17_1632\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Project\SQA_TT\28MAR17_1632\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Project\SQA_TT\28MAR17_1632\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Project\SQA_TT\28MAR17_1632\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Project\SQA_TT\30MAR17_1924\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Project\SQA_TT\30MAR17_1924\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Project\SQA_TT\30MAR17_1924\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Project\SQA_TT\30MAR17_1924\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Project\SQA_TT\31MAR17_1904\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Project\SQA_TT\31MAR17_1904\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Project\SQA_TT\31MAR17_1904\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Project\SQA_TT\31MAR17_1904\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\TT_14APR17\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\TT_14APR17\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\TT_14APR17\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_14APR17\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\TT_14APR17\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Project\TT_14APR17\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Project\TT_14APR17\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Project\TT_14APR17\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Project\TT_14APR17\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Project\TT_24APR17_1327\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Project\TT_24APR17_1327\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Project\TT_24APR17_1327\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Project\TT_24APR17_1327\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Project\TT_24APR17_1327\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Project\TT_15MAY17\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Project\TT_15MAY17\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Project\TT_15MAY17\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Project\TT_15MAY17\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Project\TT_15MAY17\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Project\TT_29May17\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Project\TT_29May17\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Project\TT_29May17\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Project\TT_29May17\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\TT_10JUL17\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\TT_10JUL17\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\TT_10JUL17\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_10JUL17\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\TT_10JUL17\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\TT_03AUG17\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\TT_03AUG17\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\TT_03AUG17\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_03AUG17\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\TT_03AUG17\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\TT_23AUG17_Localization\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\TT_23AUG17_Localization\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\TT_23AUG17_Localization\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_23AUG17_Localization\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\TT_23AUG17_Localization\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\TT_01SEP17_Localization\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\TT_01SEP17_Localization\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\TT_01SEP17_Localization\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_01SEP17_Localization\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\TT_01SEP17_Localization\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Tic Toc\TT_27SEP17_Localization\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_27SEP17_Localization\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Tic Toc\TT_27SEP17_Localization\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Tic Toc\TT_27SEP17_Localization\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Tic Toc\TT_27SEP17_Localization\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Project\TT_27SEP17_Localization_New\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Project\TT_27SEP17_Localization_New\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Project\TT_27SEP17_Localization_New\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Project\TT_27SEP17_Localization_New\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Project\TT_27SEP17_Localization_New\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Project\TT_08Oct17_Localization\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Project\TT_08Oct17_Localization\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Project\TT_08Oct17_Localization\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Project\TT_08Oct17_Localization\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Project\TT_08Oct17_Localization\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache
+D:\Project\TT_09Oct17_Localization_UserProfile\Source_Code\TksCore\bin\Release\TksCore.dll
+D:\Project\TT_09Oct17_Localization_UserProfile\Source_Code\TksCore\bin\Release\TksCore.pdb
+D:\Project\TT_09Oct17_Localization_UserProfile\Source_Code\TksCore\obj\Release\TksCore.dll
+D:\Project\TT_09Oct17_Localization_UserProfile\Source_Code\TksCore\obj\Release\TksCore.pdb
+D:\Project\TT_09Oct17_Localization_UserProfile\Source_Code\TksCore\obj\Release\TksCore.csprojResolveAssemblyReference.cache

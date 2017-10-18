@@ -1,0 +1,29 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="TestPage102.aspx.cs" Inherits="Testing_TestPage102" %>
+
+<%@ Register Namespace="CalendarButton" TagPrefix="e4e" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <style type="text/css">
+        .hide
+        {
+            visibility: hidden;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:Calendar ID="Calendar1" runat="server" Width="100%" Height="100%" OnDayRender="Calendar1_DayRender"
+            OnSelectionChanged="Calendar1_SelectionChanged" 
+            SelectionMode="DayWeekMonth">
+            
+            </asp:Calendar>
+            
+        <e4e:CalendarLinkButton ID="CalendarLinkButton1" runat="server" CssClass="hide" OnCalendarClick="CalendarLinkButton1_CalendarClick"></e4e:CalendarLinkButton>
+    </div>
+    </form>
+</body>
+</html>

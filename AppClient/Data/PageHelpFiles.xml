@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pages>
+  <Page url="~/Homepage.aspx">
+    <HelpUrl>~/HelpPages/Help_Home.html</HelpUrl>
+  </Page>
+  <Page url="~/Users/UserListView.aspx">
+    <HelpUrl>~/HelpPages/Users/Help_Users.html</HelpUrl>
+  </Page>
+  <Page url="~/Users/UserEditView.aspx">
+    <HelpUrl>~/HelpPages/Users/Help_Users.html</HelpUrl>
+  </Page>
+  <Page url="~/Masters/CommonMastersListView.aspx?master=role">
+    <HelpUrl>~/HelpPages/Masters/Help_Roles.html</HelpUrl>
+  </Page>
+  <Page url="~/Masters/ClientListView.aspx">
+    <HelpUrl>~/HelpPages/Masters/Help_Clients.html</HelpUrl>
+  </Page>
+  <Page url="~/Masters/ProjectListView.aspx">
+    <HelpUrl>~/HelpPages/Masters/Help_Projects.html</HelpUrl>
+  </Page>
+  <Page url="~/Masters/ProjectEditView.aspx">
+    <HelpUrl>~/HelpPages/Masters/Help_Projects.html</HelpUrl>
+  </Page>
+  <Page url="~/Masters/CommonMastersListView.aspx?master=platform">
+    <HelpUrl>~/HelpPages/Masters/Help_Platform.html</HelpUrl>
+  </Page>
+  <Page url="~/Masters/CommonMastersListView.aspx?master=test">
+    <HelpUrl>~/HelpPages/Masters/Help_Tests.html</HelpUrl>
+  </Page>
+  <Page url="~/Masters/CommonMastersListView.aspx?master=billingtype">
+    <HelpUrl>~/HelpPages/Masters/Help_BillingType.html</HelpUrl>
+  </Page>
+  <Page url="~/Masters/WorkTypeListView.aspx">
+    <HelpUrl>~/HelpPages/Masters/Help_WorkType.html</HelpUrl>
+  </Page>
+  <Page url="~/Masters/LocationListView.aspx">
+    <HelpUrl>~/HelpPages/Masters/Help_Location.html</HelpUrl>
+  </Page>
+  <Page url="~/Masters/CommonMastersListView.aspx?master=language">
+    <HelpUrl>~/HelpPages/Masters/Help_Language.html</HelpUrl>
+  </Page>
+  <Page url="~/Users/UserHierarchyView.aspx">
+    <HelpUrl>~/HelpPages/Users/Help_ReportHierarchy.html</HelpUrl>
+  </Page>
+	<Page url="~/Masters/IPConfig.aspx">
+		<HelpUrl>~/HelpPages/Masters/IPConfig.html</HelpUrl>
+	</Page>
+  <Page url="~/Activities/ActivityListView.aspx">
+    <HelpUrl>~/HelpPages/Activities/Help_ActivityEntry.html</HelpUrl>
+  </Page>
+  <Page url="~/Activities/ActivityEditView.aspx">
+    <HelpUrl>~/HelpPages/Activities/Help_ActivityEntry.html</HelpUrl>
+  </Page>
+  <Page url="~/Activities/ActivityReviewView.aspx">
+    <HelpUrl>~/HelpPages/Activities/Help_ActivityApproval.html</HelpUrl>
+  </Page>
+  <Page url="~/Activities/ActivityResetView.aspx">
+    <HelpUrl>~/HelpPages/Activities/Help_ActivityReset.html</HelpUrl>
+  </Page>
+  <Page url="~/Activities/UserSwipeView.aspx">
+    <HelpUrl>~/HelpPages/Activities/Help_TimeSheet.html</HelpUrl>
+  </Page>
+  <Page url="~/Activities/UserSwipeEditView.aspx">
+    <HelpUrl>~/HelpPages/Activities/Help_EditTimeSheet.html</HelpUrl>
+  </Page>
+  <Page url="~/Reports/ReportsView.aspx">
+    <HelpUrl>~/HelpPages/Reports/Help_Reports.html</HelpUrl>
+  </Page>
+  <Page url="~/Reports/ActivitySummaryReportView.aspx">
+    <HelpUrl>~/HelpPages/Reports/Help_ActivityEntryReport.html</HelpUrl>
+  </Page>
+  <Page url="~/Reports/PayrollActivityReportView.aspx">
+    <HelpUrl>~/HelpPages/Reports/Help_BillingReport.html</HelpUrl>
+  </Page>
+  <Page url="~/Reports/WorkedDuration.aspx">
+    <HelpUrl>~/HelpPages/Reports/Help_EmpCheck.html</HelpUrl>
+  </Page>
+  <Page url="~/Reports/ActivityNotEnteredReportView.aspx">
+    <HelpUrl>~/HelpPages/Reports/Help_NotEntryReport.html</HelpUrl>
+  </Page>
+  <Page url="~/Reports/BillingInvoiceReportView.aspx">
+    <HelpUrl>~/HelpPages/Reports/Help_PayRoll.html</HelpUrl>
+  </Page>
+  <Page url="~/Reports/UnApprovedActivities.aspx">
+    <HelpUrl>~/HelpPages/Reports/Help_UnApprovedActivity.html</HelpUrl>
+  </Page>
+  <Page url="~/Reports/UserHierarchyReportView.aspx">
+    <HelpUrl>~/HelpPages/Reports/Help_ReportHiearchy.html</HelpUrl>
+  </Page>
+  <Page url="~/Reports/UserMasterReportView.aspx">
+    <HelpUrl>~/HelpPages/Reports/Help_UserMasterReport.html</HelpUrl>
+  </Page>
+  <Page url="~/Reports/UserMasterReportView.aspx">
+    <HelpUrl>~/HelpPages/Reports/Help_CheckInOutMismatchReport.html</HelpUrl>
+  </Page>
+  <Page url="~/Reports/ActivityDurationMismatchReportView.aspx">
+    <HelpUrl>~/HelpPages/Reports/Help_CheckInOutMismatchReport.html</HelpUrl>
+  </Page>
+  <Page url="~/Reports/AttendanceRegister.aspx">
+    <HelpUrl>~/HelpPages/Reports/Help_BangaloreAttendanceReport.html</HelpUrl>
+  </Page>
+  <Page url="~/Reports/SalaryRegister.aspx">
+    <HelpUrl>~/HelpPages/Reports/Help_BangaloreSalaryReport.html</HelpUrl>
+  </Page>
+	
+</Pages>

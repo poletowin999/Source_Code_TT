@@ -1,0 +1,158 @@
+C:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\bin\Debug\TksCore.dll
+C:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\bin\Debug\TksCore.pdb
+C:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Debug\TksCore.dll
+C:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Debug\TksCore.pdb
+E:\Developers (B08)\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\bin\Debug\TksCore.dll
+E:\Developers (B08)\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\bin\Debug\TksCore.pdb
+E:\Developers (B08)\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Debug\ResolveAssemblyReference.cache
+E:\Developers (B08)\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Debug\TksCore.dll
+E:\Developers (B08)\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Debug\TksCore.pdb
+E:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\bin\Debug\TksCore.dll
+E:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\bin\Debug\TksCore.pdb
+E:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Debug\ResolveAssemblyReference.cache
+E:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Debug\TksCore.dll
+E:\Developers\Saravanan\Projects\Time Keeping System\Code\Version 1.0\TksCore\obj\Debug\TksCore.pdb
+E:\Ayyappan\Projects\Projects\SPA-51-TicToc\Source_Code\TksCore\bin\Debug\TksCore.dll
+E:\Ayyappan\Projects\Projects\SPA-51-TicToc\Source_Code\TksCore\bin\Debug\TksCore.pdb
+E:\Ayyappan\Projects\Projects\SPA-51-TicToc\Source_Code\TksCore\obj\Debug\ResolveAssemblyReference.cache
+E:\Ayyappan\Projects\Projects\SPA-51-TicToc\Source_Code\TksCore\obj\Debug\TksCore.dll
+E:\Ayyappan\Projects\Projects\SPA-51-TicToc\Source_Code\TksCore\obj\Debug\TksCore.pdb
+E:\Developers\Saravanan\WorkingProjects\SPA-51-TicToc\Source_Code\TksCore\bin\Debug\TksCore.dll
+E:\Developers\Saravanan\WorkingProjects\SPA-51-TicToc\Source_Code\TksCore\bin\Debug\TksCore.pdb
+E:\Developers\Saravanan\WorkingProjects\SPA-51-TicToc\Source_Code\TksCore\obj\Debug\ResolveAssemblyReference.cache
+E:\Developers\Saravanan\WorkingProjects\SPA-51-TicToc\Source_Code\TksCore\obj\Debug\TksCore.dll
+E:\Developers\Saravanan\WorkingProjects\SPA-51-TicToc\Source_Code\TksCore\obj\Debug\TksCore.pdb
+E:\Developers\Saravanan\SVN - Woking projects\SPA-51-TicToc\Source_Code\TksCore\bin\Debug\TksCore.dll
+E:\Developers\Saravanan\SVN - Woking projects\SPA-51-TicToc\Source_Code\TksCore\bin\Debug\TksCore.pdb
+E:\Developers\Saravanan\SVN - Woking projects\SPA-51-TicToc\Source_Code\TksCore\obj\Debug\ResolveAssemblyReference.cache
+E:\Developers\Saravanan\SVN - Woking projects\SPA-51-TicToc\Source_Code\TksCore\obj\Debug\TksCore.dll
+E:\Developers\Saravanan\SVN - Woking projects\SPA-51-TicToc\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\TicToc-02062013\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\TicToc-02062013\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\TicToc-02062013\Source_Code\TksCore\obj\Debug\ResolveAssemblyReference.cache
+D:\TicToc-02062013\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\TicToc-02062013\Source_Code\TksCore\obj\Debug\TksCore.pdb
+C:\TicToc-02062013\Source_Code\TksCore\bin\Debug\TksCore.dll
+C:\TicToc-02062013\Source_Code\TksCore\bin\Debug\TksCore.pdb
+C:\TicToc-02062013\Source_Code\TksCore\obj\Debug\ResolveAssemblyReference.cache
+C:\TicToc-02062013\Source_Code\TksCore\obj\Debug\TksCore.dll
+C:\TicToc-02062013\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\TicToc_Project\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\TicToc_Project\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\TicToc_Project\Source_Code\TksCore\obj\Debug\ResolveAssemblyReference.cache
+D:\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\TT_work\TT_20MAR14\TicToc_Project as on 20MAR14\TicToc_Project\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\TT_work\TT_20MAR14\TicToc_Project as on 20MAR14\TicToc_Project\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\TT_work\TT_20MAR14\TicToc_Project as on 20MAR14\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\TT_work\TT_20MAR14\TicToc_Project as on 20MAR14\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\TT_on_05MAY14\TicToc_Project\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\TT_on_05MAY14\TicToc_Project\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\TT_on_05MAY14\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\TT_on_05MAY14\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\TT_on_05MAY14\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_28AUG14\TT_on_28AUG14\TT_on_13AUG14\TicToc_Project\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_28AUG14\TT_on_28AUG14\TT_on_13AUG14\TicToc_Project\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT_28AUG14\TT_on_28AUG14\TT_on_13AUG14\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_28AUG14\TT_on_28AUG14\TT_on_13AUG14\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_28AUG14\TT_on_28AUG14\TT_on_13AUG14\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_16SEP14\TicToc_Project\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_16SEP14\TicToc_Project\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT_16SEP14\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_16SEP14\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_16SEP14\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TTonDEC16\TT_16SEP14\TT_16SEP14\TicToc_Project\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TTonDEC16\TT_16SEP14\TT_16SEP14\TicToc_Project\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TTonDEC16\TT_16SEP14\TT_16SEP14\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TTonDEC16\TT_16SEP14\TT_16SEP14\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TTonDEC16\TT_16SEP14\TT_16SEP14\TicToc_Project\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\TT_LIVE_17MAR15\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\TT_LIVE_17MAR15\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\TT_LIVE_17MAR15\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\TT_LIVE_17MAR15\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\TT_LIVE_17MAR15\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT15JUN15\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT15JUN15\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT15JUN15\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT15JUN15\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT15JUN15\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\27JUL15\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\27JUL15\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\27JUL15\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\27JUL15\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\27JUL15\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_24AUG15\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_24AUG15\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT_24AUG15\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_24AUG15\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_24AUG15\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_04SEP15\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_04SEP15\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT_04SEP15\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_04SEP15\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_04SEP15\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_09OCT15\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_09OCT15\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT_09OCT15\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_09OCT15\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_09OCT15\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_13NOV15\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_13NOV15\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT_13NOV15\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_13NOV15\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_13NOV15\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_18NOV15\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_18NOV15\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_18NOV15\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_18NOV15\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_18NOV15\Source_Code\TksCore\bin\Debug\TksCore.pdb
+C:\Users\prasanna.j\Desktop\TT_11JAN16\Source_Code\TksCore\bin\Debug\TksCore.dll
+C:\Users\prasanna.j\Desktop\TT_11JAN16\Source_Code\TksCore\bin\Debug\TksCore.pdb
+C:\Users\prasanna.j\Desktop\TT_11JAN16\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+C:\Users\prasanna.j\Desktop\TT_11JAN16\Source_Code\TksCore\obj\Debug\TksCore.dll
+C:\Users\prasanna.j\Desktop\TT_11JAN16\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_04OCT16\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_04OCT16\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT_04OCT16\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_04OCT16\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_04OCT16\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_18OCT16\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_18OCT16\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT_18OCT16\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_18OCT16\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_18OCT16\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_20OCT16\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_20OCT16\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT_20OCT16\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_20OCT16\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_20OCT16\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_21OCT16\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_21OCT16\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT_21OCT16\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_21OCT16\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_21OCT16\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_15DEC16\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_15DEC16\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_15DEC16\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_15DEC16\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_15DEC16\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT_28DEC16\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_28DEC16\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT_28DEC16\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_28DEC16\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_28DEC16\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_09JAN17\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_09JAN17\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT_09JAN17\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_09JAN17\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_09JAN17\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Tic Toc\TT_23JAN17\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Tic Toc\TT_23JAN17\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Tic Toc\TT_23JAN17\Source_Code\TksCore\obj\Debug\TksCore.csprojResolveAssemblyReference.cache
+D:\Tic Toc\TT_23JAN17\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Tic Toc\TT_23JAN17\Source_Code\TksCore\obj\Debug\TksCore.pdb
+D:\Project\SQA_TT\23FEB17\Source_Code\TksCore\bin\Debug\TksCore.dll
+D:\Project\SQA_TT\23FEB17\Source_Code\TksCore\bin\Debug\TksCore.pdb
+D:\Project\SQA_TT\23FEB17\Source_Code\TksCore\obj\Debug\TksCore.dll
+D:\Project\SQA_TT\23FEB17\Source_Code\TksCore\obj\Debug\TksCore.pdb

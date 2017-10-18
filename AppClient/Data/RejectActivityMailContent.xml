@@ -1,0 +1,25 @@
+﻿<html>
+    <body style="font-family: Tahoma,Verdana, Arial; font-size:12px;">
+    <div>Dear <span style="font-size:13px; font-weight:bold;">{0},</span> <br/>
+    </div>
+    <p>
+      The following activities were rejected:
+      <br/>
+    </p>
+    <p>
+      {1}
+    </p>
+    <p>
+      {2}
+    </p>
+    <p>
+      <div>Regards,</div>
+      <div style="color:#0066CC; font-weight:bold;">Tick Tock Mailing Service</div>
+    </p>
+      <div style="border-bottom:1px solid #336699; border-top:3px solid #336699; width:100%; padding:5px 0px 5px 0px; margin:10px 0px 0px 0px; color:#666;">
+        <p>
+          Note:<br/>Please don't reply to this message, which was sent from unmonitored e-mail address.Mail sent to this address cannot be answered.To request more help, please contact software at <a href="mailto:prasanna.j@ptw-i.com">prasanna.j@ptw-i.com.</a>
+        </p>
+      </div>
+  </body>
+</html>

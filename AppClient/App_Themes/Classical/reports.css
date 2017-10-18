@@ -1,0 +1,169 @@
+﻿.ActivityReport
+{       
+    content:url("../../Images/Reports.png"); 
+    background: url(../../Images/Reports.png) no-repeat;
+    width: 50px; /* Width of new image */
+    height: 50px; /* Height of new image */     
+}
+.ActivityReport:after
+{   
+    content:url("../../Images/Reports.png");   
+}
+
+
+.ActivityNotEntered
+{
+   content:url("../../Images/ico_business_closures.gif"); 
+   background: url(../../Images/ico_business_closures.gif) no-repeat;
+   width: 50px; /* Width of new image */
+   height: 50px; /* Height of new image */     
+}
+.ActivityNotEntered::after
+{
+   content:url("../../Images/ico_business_closures.gif"); 
+}
+
+.ActivityPayroll
+{
+   content:url("../../Images/billingReport.png");
+   background: url(../../Images/billingReport.png) no-repeat;
+   width: 50px; /* Width of new image */
+   height: 50px; /* Height of new image */
+}
+.ActivityPayroll::after
+{
+   content:url("../../Images/billingReport.png");
+}
+
+.ActivityBilling
+{
+   content:url("../../Images/billingInvoice.png");
+   background: url(../../Images/billingInvoice.png) no-repeat;
+   width: 50px; /* Width of new image */
+   height: 50px; /* Height of new image */
+}
+.ActivityBilling::after
+{
+   content:url("../../Images/billingInvoice.png");
+}
+
+.ActivityWorkedDuration
+{
+   content:url("../../Images/emp_CheckIn.png");
+   background: url(../../Images/emp_CheckIn.png) no-repeat;
+   width: 50px; /* Width of new image */
+   height: 50px; /* Height of new image */
+}
+
+.ActivityWorkedDuration::after
+{
+    content:url("../../Images/emp_CheckIn.png");
+}
+
+.ActivityuserHierarchy
+{
+   content:url("../../Images/userHierarchy.png");
+   background: url(../../Images/userHierarchy.png) no-repeat;
+   width: 50px; /* Width of new image */
+   height: 50px; /* Height of new image */
+}
+.ActivityuserHierarchy::after
+{
+   content:url("../../Images/userHierarchy.png");
+}
+
+.ActivityuserMaster
+{
+   content:url("../../Images/userMaster.png");
+   background: url(../../Images/userMaster.png) no-repeat;
+   width: 50px; /* Width of new image */
+   height: 50px; /* Height of new image */
+}
+.ActivityuserMaster::after
+{
+   content:url("../../Images/userMaster.png");
+}
+
+.ActivityaccRegister1
+{
+   content:url("../../Images/accRegister1.png");
+   background: url(../../Images/accRegister1.png) no-repeat;
+   width: 50px; /* Width of new image */
+   height: 50px; /* Height of new image */
+}
+.ActivityaccRegister1::after
+{
+    content:url("../../Images/accRegister1.png");
+}
+
+.ActivityunApproved
+{
+   content:url("../../Images/unApproved.png");
+   background: url(../../Images/unApproved.png) no-repeat;
+   width: 50px; /* Width of new image */
+   height: 50px; /* Height of new image */
+}
+.ActivityunApproved::after
+{
+    content:url("../../Images/unApproved.png");
+}
+
+.ActivityuseractivityMismatch
+{
+   content:url("../../Images/activityMismatch.png");
+   background: url(../../Images/activityMismatch.png) no-repeat;
+   width: 50px; /* Width of new image */
+   height: 50px; /* Height of new image */
+}
+.ActivityuseractivityMismatch::after
+{
+   content:url("../../Images/activityMismatch.png");   
+}
+
+.ActivitysalaryReg
+{
+   content:url("../../Images/salaryReg.png");
+   background: url(../../Images/salaryReg.png) no-repeat;
+   width: 50px; /* Width of new image */
+   height: 50px; /* Height of new image */
+}
+.ActivitysalaryReg::after
+{
+    content:url("../../Images/salaryReg.png");
+}
+
+.Activityemp_CheckIn
+{
+   content:url("../../Images/emp_CheckIn.png");
+   background: url(../../Images/emp_CheckIn.png) no-repeat;
+   width: 50px; /* Width of new image */
+   height: 50px; /* Height of new image */
+}
+.Activityemp_CheckIn::after
+{
+    content:url("../../Images/emp_CheckIn.png");
+}
+
+.Activityemp_CheckIn1
+{
+   content:url("../../Images/emp_CheckIn.png");
+   background: url(../../Images/emp_CheckIn.png) no-repeat;
+   width: 50px; /* Width of new image */
+   height: 50px; /* Height of new image */
+}
+.Activityemp_CheckIn1::after
+{
+    content:url("../../Images/emp_CheckIn.png");
+}
+
+.ActivityReports
+{
+   content:url("../../Images/Reports.png");   
+   background: url(../../Images/Reports.png) no-repeat;
+   width: 50px; /* Width of new image */
+   height: 50px; /* Height of new image */
+}
+.ActivityReports::after
+{
+    content:url("../../Images/Reports.png");
+}

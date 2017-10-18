@@ -1,0 +1,300 @@
+﻿/* From Main Stylesheet */
+
+body
+{
+    font-family: 'Segoe UI', Verdana, Tahoma, Arial;
+    font-size: 10pt;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+    color: #333333;
+}
+
+.bodyBg
+{
+    background-color: #FBFBFB;
+    width:100%;
+}
+.header
+{
+    width: 100%;
+    display: inline-block;
+    border-bottom: 3px solid #0066CC;
+}
+.headerPanel
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.contentPanel
+{
+    width: 100%;
+    min-height: 550px; /* background-color: #F4FAFF; */
+    background-color: #FBFBFB;
+}
+.footer
+{
+    width: 100%;
+    height: 75px;
+    background-color: #ffffff;
+    border-top: 2px solid #0066CC;
+    padding: 10px 0px 10px 0px;
+}
+.footer-panel
+{
+    width: 500px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #808080;
+}
+
+.center-panel
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.tableLayout
+{
+    table-layout: fixed;
+    empty-cells: show;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table.tableLayout > tbody> tr > td
+{
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    height: 30px;
+}
+
+a, a:active, .link
+{
+    color: #0053A6;
+    text-decoration: none;
+}
+a:hover
+{
+    color: #0066cc;
+    text-decoration: underline;
+}
+
+.page-header-panel
+{
+    display: block;
+    padding-bottom: 5px;
+    margin-bottom: 2px;
+    border-bottom: 0px solid #808080;
+}
+
+h1, h2, h3, h4, h5
+{
+    font-family: Trebuchet MS;
+    font-weight: bold;
+    margin: 0;
+    color: #993366;
+    padding: 2px;
+    letter-spacing: 1pt;
+}
+h2
+{
+    font-size: 14pt;
+}
+h3
+{
+    font-size: 12pt;
+}
+h4
+{
+    font-size: 10pt;
+}
+.headerPanel3
+{
+    padding: 7px 5px 3px 2px;
+    border-bottom: 1px solid #E4E4E4;
+    margin-bottom: 5px;
+    border-bottom-color: #E4E4E4;
+}
+/* Added for User Manual  */
+
+ul.index
+{
+    padding: 0px 0px 0px 150px;
+    line-height: 35px;
+    font-size: 18px;
+    font-weight: bold;
+}
+ul.index li
+{
+    list-style-type: decimal;
+}
+ul.subMenu
+{
+    line-height: 35px;
+    font-size: 14px;
+    font-weight: normal;
+}
+ul.subMenu li
+{
+    list-style-type: lower-alpha;
+}
+p
+{
+    line-height: 25px;
+    text-align: justify;
+    padding: 0px 0px 0px 30px;
+}
+ul.bulletin
+{
+    line-height: 35px;
+}
+
+.ctl00_mainMenu_0
+{
+    background-color: white;
+    visibility: hidden;
+    display: none;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.ctl00_mainMenu_1
+{
+    text-decoration: none;
+}
+.ctl00_mainMenu_2
+{
+    background-color: Transparent;
+}
+.ctl00_mainMenu_3
+{
+    border-style: none;
+}
+
+.ctl00_mainMenu_6
+{
+    border-style: none;
+}
+
+.ctl00_mainMenu_9
+{
+    border-style: none;
+}
+
+.ctl00_mainMenu_11
+{
+    border-style: none;
+}
+
+ul#nav
+{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border-collapse:collapse;
+}
+ul#nav li
+{
+    float: left;
+    border:1px solid #0066cc;
+    text-align:center;
+    margin:0px 2px 0px 2px;
+    padding:3px 7px 5px 7px;
+    background-color:#0066cc;
+    font-family: 'Segoe UI', Verdana, Tahoma, Arial;
+    font-size:10pt;
+    font-weight:bold;
+    list-style: none;
+    z-index:0;
+    
+}
+ul#nav li a
+{
+    display: block;
+    color:#fff;
+    text-decoration:none;
+}
+ul#nav li ul
+{
+    display: none;
+    position: absolute;
+    width: 120px;
+    top: 0;
+    left: 0;
+    margin-left: -50px;
+    margin-top:6px;
+}
+ul#nav li ul li
+{
+    background-color:#ffffff;
+    border:1px solid #cae4ff;
+    width:99%;
+    
+}
+ul#nav li ul li:hover
+{
+    
+    background-color:#0066cc;
+    border:1px solid #cae4ff;
+    width:99%;
+    color:#ffffff;
+}
+ul#nav li ul li a
+{
+    
+    color:#0066cc;
+    text-align:left;
+    font-weight:normal;
+    text-decoration:none;
+}
+ul#nav li ul li a:hover
+{
+    
+    color:#ffffff;
+}
+ul#nav li > ul
+{
+    top: auto;
+    left: auto;
+}
+ul#nav li:hover ul, ul#nav li.over ul
+{
+    display: block;
+}
+
+ul#nav li.current
+{
+    /* your styles */
+}
+
+.menuDiv
+{
+    height:25px;
+}
+
+.imgHelp
+{
+    border:1px solid #002F5D;
+    -moz-box-shadow: 5px 5px 5px #ccc;  
+    -webkit-box-shadow: 5px 5px 5px #ccc;  
+    box-shadow: 5px 5px 5px #ccc;
+}
+
+
+.helpLogoStyle
+{
+    position:absolute;
+    right:0px;
+}
+
+.img16
+{
+    width: 16px;
+    height: 16px;
+}

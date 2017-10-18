@@ -1,0 +1,179 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title>Tick Tock</title>
+    <link href="../StyleSheets/StyleSheet.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+    <div class="bodyBg">
+        <div class="header" id="headerPanel">
+            <div class="headerPanel">
+                <div>
+                    <table cellspacing="0" border="0" class="formGrid">
+                        <tr>
+                            <td rowspan="2" style="padding-left: -5px">
+                                <img src="../Images/Logo.png" alt="Logo" title="Logo" style="width: 149px; height: 44px" />
+                            </td>
+                            <td>
+                            <div class="helpLogoStyle">
+                                    <img src="../Images/helpLogo.png" alt="Help Logo" title="Help Logo" /></div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div>
+                    <div class="menuDiv">
+                        <ul id="nav">
+                            <li><a title="Home" href="../Help_Home.html">Home</a></li>
+                            <li><a title="Admin" href="../Help_Home.html">Admin</a>
+                                <ul id="subNav">
+                                    <li><a title="Users" href="../Users/Help_Users.html">Users</a></li>
+                                    <li><a title="Roles" href="../Masters/Help_Roles.html">Roles</a></li>
+                                    <li><a title="Clients" href="../Masters/Help_Clients.html">Clients</a></li>
+                                    <li><a title="Projects" href="../Masters/Help_Projects.html">Projects</a></li>
+                                    <li><a title="Platform" href="../Masters/Help_Platform.html">Platform</a></li>
+                                    <li><a title="Tests" href="../Masters/Help_Tests.html">Tests</a></li>
+                                    <li><a title="Billing Type" href="../Masters/Help_BillingType.html">Billing Type</a></li>
+                                    <li><a title="Work Type" href="../Masters/Help_WorkType.html">Work Type</a></li>
+                                    <li><a title="Location" href="../Masters/Help_Location.html">Location</a></li>
+                                    <li><a title="Language" href="../Masters/Help_Language.html">Language</a></li>
+                                    <li><a title="Reporting Hierarchy" href="../Users/Help_reportHierarchy.html">Reporting
+                                        Hierarchy</a></li>
+                                    <li><a title="IP Config" href="../Masters/IPConfig.html">IP Config</a></li>
+                                </ul>
+                            </li>
+                            <li><a title="My ESS" href="../Help_Home.html">My ESS</a>
+                                <ul>
+                                    <li><a title="Activity Entry" href="../Activities/Help_ActivityEntry.html">Activity
+                                        Entry</a></li>
+                                    <li><a title="Activity Approval" href="../Activities/Help_ActivityApproval.html">Activity
+                                        Approval</a></li>
+                                    <li><a title="Activity Reset" href="../Activities/Help_ActivityReset.html">Activity
+                                        Reset</a></li>
+                                    <li><a title="Time Sheet" href="../Activities/Help_TimeSheet.html">Time Sheet</a></li>
+                                    <li><a title="Edit Time Sheet" href="../Activities/Help_EditTimeSheet.html">Edit Time
+                                        Sheet</a></li>
+                                </ul>
+                            </li>
+                            <li><a title="Reports" href="Help_Reports.html">Reports</a></li>
+                            <li><a title="About TT" href="../Help_Home.html">About TT</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="contentPanel">
+            <div style="padding: 20px 40px 20px 40px;">
+                <div class="page-header-panel">
+                    <h2>
+                        Payroll Report</h2>
+                </div>
+                <div class="content">
+                    <h4>
+                        REPORT DESCRIPTION</h4>
+                    <p>
+                        The report displays user wise total work duration during the specified date range. Only approved activity’s 
+                        duration will be taken into account for calculating the total duration. Report can be used for project wise 
+                        invoicing purpose</p>
+                    <h4>
+                        ACCESSIBLE BY</h4>
+                    <p>
+                        <strong>End user:</strong> Can view total duration of activities for the given
+                        period for the logged in user</p>
+                    <p>
+                        <strong>Supervisor or Manager:</strong> Can view employee wise total duration of
+                        activities for the given period for the logged in user and subordinate’s attached to him / her</p>
+                    <p>
+                        <strong>Administrator:</strong> Can view employee wise total duration of activities
+                        for the given period for all users irrespective of location</p>
+                    <h4>
+                        STEPS TO ACCESS THE REPORT</h4>
+                    <ul class="bulletin">
+                        <li>From the <strong>Home </strong>screen click on Reports</li>
+                        <li>From the <strong>Reports </strong>screen click on <strong>Payroll Report</strong></li>
+                    </ul>
+                    <p>
+                        <img class="imgHelp" alt="Activity Entry Reports " src="../Images/reports_PayRoll.jpg" /></p>
+                    <h4>
+                        INPUT PARAMETERS</h4>
+                    <ul class="bulletin">
+                        <li>Enter the From Date and To Date, within which we wish to see the month wise work
+                            duration.</li>
+                        <li>The report can be filtered based on the below fields. Select the fields from the
+                            drop down, multiple selections is also possible. If no field is selected report
+                            will run for all fields.</li>
+                        <ul>
+                            <li>Location</li>
+                            <li>Users</li>
+                            <li>Projects</li>
+                            <li>Language</li>
+                        </ul>
+                        <li>Click on View button to run the report</li>
+                        <li>To exit without running the report click the Cancel button</li>
+                    </ul>
+                    <p>
+                        <img class="imgHelp" alt="Activity Entry Reports " src="../Images/reports_PayRollView.jpg" /></p>
+                    <h4>
+                        OUTPUT</h4>
+                    <ul class="bulletin">
+                        <li>After inputting the desired conditions, click on the View Report button to view
+                            the summary report</li>
+                        <li>The summary report will display the total duration spent by each employee in a month
+                            against a project.</li>
+                    </ul>
+                    <h4>
+                        Output Fields</h4>
+                    <p>
+                        Following fields are displayed in the report</p>
+                    <ul class="bulletin">
+                        <li>Employee name, Location, contract type, Role name, Client Name, Project Name, Bill type, work type,
+                            Language, Activity type, Hours, Minutes, Total Hours.</li>
+                            </ul>
+                        <p>
+                            <img class="imgHelp" alt="Activity Entry Reports " src="../Images/reports_PayRollDetail.jpg" /></p>
+                    <h4>
+                        REPORT OPTIONS</h4>
+                    <ul class="bulletin">
+                        <li>The left arrow and right arrow button helps in navigating to the previous page and next page 
+                        of the report.</li>
+                        <li>The forward and backward button helps to navigate to last page and first page of the report.</li>
+                        <li>We can also search desired value by entering the value in the search box and click on Find button. Click Next to search the value again.</li>
+                        <li>Click on the Save icon, which provides option to export the report in Excel, Word or PDF.</li>
+                    </ul>
+                    <p style="width:1000px; overflow:auto;">
+                        <img class="imgHelp" alt="Report Options " src="../Images/reportOptions.jpg" /></p>
+                        
+                        <h2>
+                            Compatible browsers</h2>
+                        <br />
+                        <h4>
+                            On Windows OS</h4>
+                        <p>
+                            <img alt="Internet Explorer 7.0, 8.0 and 9.0" src="../Images/ie.png" title="Internet Explorer" />
+                            <img alt="Chrome 12.0 " src="../Images/chrome.png" title="Chrome" />
+                            <img alt="Firefox 5.0" src="../Images/firefox.png" title="Firefox" />
+                        </p>
+                        <h4>
+                            On Mac OS</h4>
+                        <p>
+                            <img alt="Safari 5.0" src="../Images/safari.png" title="Safari" /></p>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="footer-panel">
+                <div>
+                    Pole To Win Co., Ltd.</div>
+                <div>
+                    Copyright © 2015 - All Rights Reserved.</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

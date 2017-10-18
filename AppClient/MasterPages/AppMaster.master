@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="AppMaster.master.cs" Inherits="MasterPages_AppMaster" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">      
+    <title>Tick Tock</title>        
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" autocomplete="off" runat="server">
+    <cc1:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server">
+        <Scripts>                      
+            <asp:ScriptReference Path="~/Scripts/jQuery/jquery-1.6.3.js" />
+            <asp:ScriptReference Path="~/Scripts/jQuery/jquery-ui-1.8.16.custom.js" />
+        </Scripts>
+    </cc1:ToolkitScriptManager>
+    <div class="bodyBg">
+        <div class="header" id="headerPanel">
+            <div class="headerPanel">
+                <div>
+                    <table cellspacing="0" border="0" class="formGrid">
+                        <tr>
+                            <td rowspan="2" style="padding-left: -5px">
+                                <img id="Img1" runat="server" alt="" style="width:74px;height:70px;" src="../Images/Logo.png" />
+                            </td>
+                            <td align="right">
+                                <span><asp:Label runat="server" ID="lblWelcome" Text="Welcome"></asp:Label> <span id="LoginName" runat="server" style="color: Green; font-weight: bold">
+                                </span>,</span>
+                                <asp:HyperLink ID="hlkLogOut" runat="server" NavigateUrl="~/Misc/Logoff"><asp:Label runat="server" ID="lblLogOut" Text="Log Out"></asp:Label></asp:HyperLink>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="right">
+                                <asp:HyperLink ID="hlkChangePassword" runat="server" NavigateUrl="~/Users/PasswordChange"><asp:Label runat="server" ID="lblChangePassword" Text="Change Password"></asp:Label></asp:HyperLink>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div>
+                    <asp:Menu ID="mainMenu" Orientation="horizontal" BackColor="Transparent" StaticMenuItemStyle-CssClass="mnu"
+                        runat="server" MaximumDynamicDisplayLevels="1" StaticEnableDefaultPopOutImage="false">
+                        <StaticMenuStyle CssClass="abcd" />
+                        <StaticMenuItemStyle CssClass="static-menu-item" />
+                        <StaticHoverStyle CssClass="static-menu-item" />
+                        <DynamicMenuStyle CssClass="dynamic-menu" />
+                        <DynamicMenuItemStyle CssClass="dynamic-menu-item" />
+                        <DynamicHoverStyle CssClass="dynamic-menu-item-hover" />
+                    </asp:Menu>
+                </div>
+            </div>
+        </div>
+        <div class="contentPanel">
+            <div style="padding-left: 10px; padding-top: 5px; padding-right: 10px; padding-bottom: 20px;">
+                <!--div style="position:absolute; right:10px;">
+                    <asp:HyperLink ID="hlkPageHelp" runat="server" Target="my_own_window"> <img src="../Images/help.png" runat="server" border="0" alt="HelpImage" title="Help Icon" /> </asp:HyperLink>
+                </div-->
+                <asp:ContentPlaceHolder ID="content" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <asp:ContentPlaceHolder ID="formEndContent" runat="server">
+        </asp:ContentPlaceHolder>
+        <div class="footer">
+            <div class="footer-panel">
+                <div>
+                    Pole To Win Co., Ltd.</div>
+                <div>
+                    Copyright © 2016 - All Rights Reserved.</div>
+            </div>
+        </div>
+    </div>
+    </form>
+    <asp:ContentPlaceHolder ID="documentEndContent" runat="server">
+    </asp:ContentPlaceHolder>
+</body>
+</html>

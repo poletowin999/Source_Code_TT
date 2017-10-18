@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Reports>
+    <Report>
+        <Id>1</Id>
+        <Name>Activity Entry Report</Name>
+        <Description>To view details of activities entered by himself and his subordinates </Description>
+        <Url>~/Reports/Activity-Summary</Url>
+        <!--<ImageUrl>~/Images/Reports.png</ImageUrl>-->
+        <Css>ActivityReport</Css>
+    </Report>
+    <Report>
+        <Id>2</Id>
+        <Name>Activity Not Entered Report</Name>
+        <Description>Reports shows the users who are not entered activities but present for the day.</Description>
+        <Url>~/Reports/Activity-NotEntered</Url>
+        <!--<ImageUrl>~/Images/ico_business_closures.gif</ImageUrl>-->
+        <Css>ActivityNotEntered</Css>
+    </Report>
+  
+    <!--<Report>
+        <Id>3</Id>
+        <Name>Payroll Summary Report</Name>
+        <Description>To view the Employee Attendance.</Description>
+        <Url>~/Reports/PayrollReportView.aspx</Url>
+        <ImageUrl>~/Images/ico_pricelist.gif</ImageUrl>
+    </Report>-->
+
+    <Report>
+        <Id>3</Id>
+        <Name>Billing Report</Name>
+        <Description>Reports gives total worked hours for clients, projects,  work type and billing type. Reports also includes the hours worked on miscellaneous activities where work type set for reporting purpose. It shows only approved activities.</Description>
+        <Url>~/Reports/Activity-Payroll</Url>
+        <!--<ImageUrl>~/Images/billingReport.png</ImageUrl>-->
+        <Css>ActivityPayroll</Css>
+    </Report>
+
+  <Report>
+      <Id>4</Id>
+      <Name>Payroll Report</Name>
+      <Description>Reports gives employee wise total worked hours. Reports also includes the hours worked on miscellaneous activities where work type set for reporting purpose. It shows only approved activities.</Description>
+      <Url>~/Reports/BillingInvoice</Url>
+      <!--<ImageUrl>~/Images/billingInvoice.png</ImageUrl>-->
+    <Css>ActivityBilling</Css>
+  </Report>
+  <Report>
+    <Id>5</Id>
+    <Name>Employee Check In/Out Details</Name>
+    <Description>To view Employee Check In/Out Details.</Description>
+    <Url>~/Reports/WorkedDuration</Url>
+    <!--<ImageUrl>~/Images/emp_CheckIn.png</ImageUrl>-->
+    <Css>ActivityWorkedDuration</Css>
+  </Report>
+  <Report>
+    <Id>6</Id>
+    <Name>User Hierarchy </Name>
+    <Description>To view User Hierarchy Details</Description>
+    <Url>~/Reports/UserHierarchy-View</Url>
+    <!--<ImageUrl>~/Images/userHierarchy.png</ImageUrl>-->
+    <Css>ActivityuserHierarchy</Css>
+  </Report>
+  <Report>
+    <Id>7</Id>
+    <Name>UnApproved Activities </Name>
+    <Description>To view UnApproved Activities </Description>
+    <Url>~/Reports/Activity-UnApproved</Url>
+    <!--<ImageUrl>~/Images/unApproved.png</ImageUrl>-->
+    <Css>ActivityunApproved</Css>
+  </Report>
+  <Report>
+    <Id>8</Id>
+    <Name>User Master </Name>
+    <Description>To view User Master Details </Description>
+    <Url>~/Reports/User-Master</Url>
+    <!--<ImageUrl>~/Images/userMaster.png</ImageUrl>-->
+    <Css>ActivityuserMaster</Css>
+  </Report>
+  <Report>
+    <Id>9</Id>
+    <Name>Check In/out Mismatch with Activity Duration </Name>
+    <Description>Report displays list of user, if a day's activity duration entered 
+    by the user does not match with the Check In and Check Out duration for that day</Description>
+    <Url>~/Reports/Activity-DurationMismatch</Url>
+    <!--<ImageUrl>~/Images/activityMismatch.png</ImageUrl>-->
+    <Css>ActivityuseractivityMismatch</Css>
+  </Report>
+  <!--<Report>
+    <Id>7</Id>
+    <Name>US - Overtime Report</Name>
+    <Description>To view The OT Hours</Description>
+    <Url>~/Reports/OverTimeReport.aspx</Url>
+    <ImageUrl>~/Images/US-overtimereport.png</ImageUrl>
+  </Report>-->
+  <Report>
+    <Id>10</Id>
+    <Name>Attendance Register - Bangalore and Hyderabad</Name>
+    <Description>To View Attendance details for Bangalore and Hyderabad</Description>
+    <Url>~/Reports/Attendance</Url>
+    <!--<ImageUrl>~/Images/accRegister1.png</ImageUrl>-->
+    <Css>ActivityaccRegister1</Css>
+  </Report>
+  <Report>
+    <Id>11</Id>
+    <Name>Salary Register - Bangalore</Name>
+    <Description>To View Salary details for Bangalore</Description>
+    <Url>~/Reports/Salary</Url>
+    <!--<ImageUrl>~/Images/salaryReg.png</ImageUrl>-->
+    <Css>ActivitysalaryReg</Css>
+  </Report>
+  <!--<Report>
+    <Id>11</Id>
+    <Name>Agency Workers Details</Name>
+    <Description>To view Agency Worker Details</Description>
+    <Url>~/Reports/Agencyworkers.aspx</Url>
+    <ImageUrl>~/Images/agencyWorker.png</ImageUrl>
+  </Report>-->
+  <Report>
+    <Id>12</Id>
+    <Name>Swipe Register - Bangalore</Name>
+    <Description>To View Swipe details for Bangalore</Description>
+    <Url>~/Reports/SwipeRegister</Url>
+    <ImageUrl>~/Images/emp_CheckIn.png</ImageUrl>
+    <Css>Activityemp_CheckIn</Css>
+  </Report>
+  <Report>
+    <Id>13</Id>
+    <Name>Utilization Report</Name>
+    <Description>To View utilization details for Bangalore</Description>
+    <Url>~/Reports/Utilization</Url>
+    <!--<ImageUrl>~/Images/emp_CheckIn.png</ImageUrl>-->
+    <Css>Activityemp_CheckIn</Css>
+  </Report>
+  <Report>
+    <Id>14</Id>
+    <Name>Admin Report</Name>
+    <Description>To View users shift and Login/Logout details - Bangalore</Description>
+    <Url>~/Reports/Admin</Url>
+    <!--<ImageUrl>~/Images/emp_CheckIn.png</ImageUrl>-->
+    <Css>Activityemp_CheckIn</Css>
+  </Report>
+  <Report>
+    <Id>15</Id>
+    <Name>US Payroll Report</Name>
+    <Description>To View US Payroll Report</Description>
+    <Url>~/Reports/USPayroll</Url>
+    <!--<ImageUrl>~/Images/Reports.png</ImageUrl>-->
+    <Css>ActivityReports</Css>
+  </Report>
+  <Report>
+    <Id>16</Id>
+    <Name>Billing Report - LOB</Name>
+    <Description>Billing Report with unapproved activities.</Description>
+    <Url>~/Reports/LOB</Url>
+    <!--<ImageUrl>~/Images/billingReport.png</ImageUrl>-->
+    <Css>ActivityPayroll</Css>
+  </Report>
+  <Report>
+    <Id>17</Id>
+    <Name>Dashboard</Name>
+    <Description>To view details of users work durations and activity status for the day.</Description>
+    <Url>~/Reports/Dashboard</Url>
+    <!--<ImageUrl>~/Images/ico_business_closures.gif</ImageUrl>-->
+    <Css>ActivityReports</Css>
+  </Report>
+</Reports>
+

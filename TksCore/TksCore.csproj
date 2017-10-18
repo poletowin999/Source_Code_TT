@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AC0DCDE9-7976-4601-A807-092448960E30}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tks</RootNamespace>
+    <AssemblyName>TksCore</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entities\Activity.cs" />
+    <Compile Include="Entities\ActivityComment.cs" />
+    <Compile Include="Entities\ActivitySearchCriteria.cs" />
+    <Compile Include="Entities\BillingType.cs" />
+    <Compile Include="Entities\Client.cs" />
+    <Compile Include="Entities\ClientSearchCriteria.cs" />
+    <Compile Include="Entities\DepartmentSearchCriteria.cs" />
+    <Compile Include="Entities\Department.cs" />
+    <Compile Include="Entities\LblLanguage.cs" />
+    <Compile Include="Entities\Language.cs" />
+    <Compile Include="Entities\Location.cs" />
+    <Compile Include="Entities\LocationSearchCriteria.cs" />
+    <Compile Include="Entities\MasterEntity.cs" />
+    <Compile Include="Entities\MasterEntitySearchCriteria.cs" />
+    <Compile Include="Entities\Menu.cs" />
+    <Compile Include="Entities\Platform.cs" />
+    <Compile Include="Entities\Project.cs" />
+    <Compile Include="Entities\ProjectSearchCriteria.cs" />
+    <Compile Include="Entities\Role.cs" />
+    <Compile Include="Entities\RoleSearchCriteria.cs" />
+    <Compile Include="Entities\Test.cs" />
+    <Compile Include="Entities\TimeZone.cs" />
+    <Compile Include="Entities\TimeZoneSearchCriteria.cs" />
+    <Compile Include="Entities\UserActivitySummary.cs" />
+    <Compile Include="Entities\UserSearchCriteria.cs" />
+    <Compile Include="Entities\UsersProfileEntity.cs" />
+    <Compile Include="Entities\UserSwipe.cs" />
+    <Compile Include="Entities\WorkType.cs" />
+    <Compile Include="Entities\WorkTypeSearchCriteria.cs" />
+    <Compile Include="Model\AppManager.cs" />
+    <Compile Include="Model\AuthenticationException.cs" />
+    <Compile Include="Model\CustomEntity.cs" />
+    <Compile Include="Model\DashboardProvider.cs" />
+    <Compile Include="Model\DbConnectionProvider.cs" />
+    <Compile Include="Model\EntityBase.cs" />
+    <Compile Include="Entities\User.cs" />
+    <Compile Include="Model\ErrorLogProvider.cs" />
+    <Compile Include="Model\GeneralSetting.cs" />
+    <Compile Include="Model\GeneralSettingProvider.cs" />
+    <Compile Include="Model\IAppManager.cs" />
+    <Compile Include="Model\IEntityService.cs" />
+    <Compile Include="Model\SearchCriteria.cs" />
+    <Compile Include="Model\SettingProvider.cs" />
+    <Compile Include="Model\UserAuthentication.cs" />
+    <Compile Include="Model\UserHierarchyException.cs" />
+    <Compile Include="Model\Utility.cs" />
+    <Compile Include="Model\ValidationException.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceImpl\ActivityService.cs" />
+    <Compile Include="ServiceImpl\ActivityService2.cs" />
+    <Compile Include="ServiceImpl\ActivityService3.cs" />
+    <Compile Include="ServiceImpl\BillingTypeService.cs" />
+    <Compile Include="ServiceImpl\ClientService.cs" />
+    <Compile Include="ServiceImpl\DepartmentService.cs" />
+    <Compile Include="ServiceImpl\IPService.cs" />
+    <Compile Include="ServiceImpl\LblLanguageService.cs" />
+    <Compile Include="ServiceImpl\LanguageService.cs" />
+    <Compile Include="ServiceImpl\LocationService.cs" />
+    <Compile Include="ServiceImpl\LocationService2.cs" />
+    <Compile Include="ServiceImpl\MenuService.cs" />
+    <Compile Include="ServiceImpl\PlatformService.cs" />
+    <Compile Include="ServiceImpl\ProjectService.cs" />
+    <Compile Include="ServiceImpl\ProjectService2.cs" />
+    <Compile Include="ServiceImpl\ReportService.cs" />
+    <Compile Include="ServiceImpl\RoleService.cs" />
+    <Compile Include="ServiceImpl\TestService.cs" />
+    <Compile Include="ServiceImpl\TimeZoneService.cs" />
+    <Compile Include="ServiceImpl\UsersProfile.cs" />
+    <Compile Include="ServiceImpl\UserService.cs" />
+    <Compile Include="ServiceImpl\UserService2.cs" />
+    <Compile Include="ServiceImpl\UserService3.cs" />
+    <Compile Include="ServiceImpl\UserService4.cs" />
+    <Compile Include="ServiceImpl\UserSwipeService.cs" />
+    <Compile Include="ServiceImpl\WorkTypeService.cs" />
+    <Compile Include="Services\AppService.cs" />
+    <Compile Include="Services\IDepartmentService.cs" />
+    <Compile Include="Services\IActivityService.cs" />
+    <Compile Include="Services\IBillingTypeService.cs" />
+    <Compile Include="Services\IClientService.cs" />
+    <Compile Include="Services\IIPservice.cs" />
+    <Compile Include="Services\ILblLanguage.cs" />
+    <Compile Include="Services\ILanguageService.cs" />
+    <Compile Include="Services\ILocationService.cs" />
+    <Compile Include="Services\IMenuService.cs" />
+    <Compile Include="Services\IPlatformService.cs" />
+    <Compile Include="Services\IProjectService.cs" />
+    <Compile Include="Services\IReportService.cs" />
+    <Compile Include="Services\IRoleService.cs" />
+    <Compile Include="Services\ITestService.cs" />
+    <Compile Include="Services\ITimeZoneService.cs" />
+    <Compile Include="Services\IUsersProfile.cs" />
+    <Compile Include="Services\IUserService.cs" />
+    <Compile Include="Services\IUserSwipeService.cs" />
+    <Compile Include="Services\IWorkTypeService.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

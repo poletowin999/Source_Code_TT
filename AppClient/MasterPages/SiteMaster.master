@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="SiteMaster.master.cs" Inherits="MasterPages_SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Tick Tock</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" autocomplete="off" runat="server">
+    <div class="bodyBg">
+        <div class="header">
+            <table cellspacing="0" border="0" class="formGrid">
+                <tr>
+                    <td rowspan="2">
+                        <img id="Img1" runat="server" alt="" src="../Images/Logo.png" style="width:74px;height:70px;"/>
+                    </td>
+                    <td align="right">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="contentPanel">
+            <asp:ContentPlaceHolder ID="content" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="footer">
+            <div class="footer-panel">
+                <div>
+                    Pole To Win Co., Ltd.</div>
+                <div>
+                    Copyright © 2016 - All Rights Reserved.</div>
+            </div>
+        </div>
+    </div>
+    <asp:ContentPlaceHolder ID="formEndContent" runat="server">
+    </asp:ContentPlaceHolder>
+    </form>
+    <asp:ContentPlaceHolder ID="documentEndContent" runat="server">
+    </asp:ContentPlaceHolder>
+</body>
+</html>
